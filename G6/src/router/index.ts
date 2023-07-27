@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
-import IndexView from '../views/01快速上手/index.vue'
+import IndexView from '../views/02入门教程/1.绘制 Tutorial 案例.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
